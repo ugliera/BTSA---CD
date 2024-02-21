@@ -1,0 +1,1 @@
+var json_cfpadegenech_6 = {"type":"FeatureCollection","name":"cfpadegenech_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"nom":"CFPPA de Genech"},"geometry":{"type":"Point","coordinates":[3.137539345623567,50.556309019133472]}}]}

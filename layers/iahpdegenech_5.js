@@ -1,0 +1,1 @@
+var json_iahpdegenech_5 = {"type":"FeatureCollection","name":"iahpdegenech_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"nom":"IAHP de Genech"},"geometry":{"type":"Point","coordinates":[3.203114697701696,50.527211103000162]}}]}
